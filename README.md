@@ -1,3 +1,3 @@
 # What's up!
 
-This repository is about starting with git and github 
+This repository is All about learning with git and github 
